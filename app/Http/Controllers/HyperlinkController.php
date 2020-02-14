@@ -14,8 +14,8 @@ class HyperlinkController extends Controller
         return Hyperlink::all();
     }
 
-    public function get(Hyperlink $hyperlink) {
-        return new \App\Http\Resources\Hyperlink($hyperlink);
+    public function get($id) {
+        return Hyperlink::all()->find($id);
     }
 
     public function create(Request $request) {
