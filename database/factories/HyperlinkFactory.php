@@ -2,12 +2,14 @@
 
 /** @var Factory $factory */
 
-use App\Model;
+use App\Hyperlink;
 use Faker\Generator as Faker;
 use Illuminate\Database\Eloquent\Factory;
 
-$factory->define(Model::class, function (Faker $faker) {
+$factory->define(Hyperlink::class, function (Faker $faker) {
     return [
-        //
+        'link' => $faker->url,
+        'title' => $faker->title,
+        'color' => $faker->hexColor
     ];
 });

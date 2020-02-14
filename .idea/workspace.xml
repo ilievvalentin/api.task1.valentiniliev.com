@@ -19,7 +19,13 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b631842-761e-4605-825c-1a19ff4d7d1f" name="Default Changelist" comment="Initial commit" />
+    <list default="true" id="8b631842-761e-4605-825c-1a19ff4d7d1f" name="Default Changelist" comment="Initial commit">
+      <change afterPath="$PROJECT_DIR$/database/seeds/HyperlinksTableSeeder.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/factories/HyperlinkFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/factories/HyperlinkFactory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2020_02_13_195613_create_hyperlinks_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2020_02_13_195613_create_hyperlinks_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/seeds/DatabaseSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeds/DatabaseSeeder.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -132,6 +138,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -160,6 +168,7 @@
       <updated>1581630238719</updated>
       <workItem from="1581630241614" duration="557000" />
       <workItem from="1581645153359" duration="49000" />
+      <workItem from="1581646486092" duration="3223000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1581630376459</created>
@@ -175,7 +184,14 @@
       <option name="project" value="LOCAL" />
       <updated>1581645185032</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Initial commit">
+      <created>1581646597642</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1581646597642</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -202,17 +218,25 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="594" y="426" key="#Composer/0.0.1680.1050@0.0.1680.1050" timestamp="1581630253818" />
+    <state x="440" y="190" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581686949385">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="440" y="190" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1581686949385" />
     <state x="543" y="89" key="#php56/Dockerfile" timestamp="1581630262113">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="543" y="89" key="#php56/Dockerfile/0.0.1680.1050@0.0.1680.1050" timestamp="1581630262113" />
+    <state width="238" height="457" key="HiddenNamespacesPopup" timestamp="1581686959175">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="238" height="457" key="HiddenNamespacesPopup/0.0.1680.1050@0.0.1680.1050" timestamp="1581686959175" />
     <state x="428" y="275" key="IDE.errors.dialog" timestamp="1581630471673">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="428" y="275" key="IDE.errors.dialog/0.0.1680.1050@0.0.1680.1050" timestamp="1581630471673" />
-    <state x="440" y="265" key="Vcs.Push.Dialog.v2" timestamp="1581645186920">
+    <state x="440" y="265" key="Vcs.Push.Dialog.v2" timestamp="1581646602588">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="440" y="265" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1581645186920" />
+    <state x="440" y="265" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1581646602588" />
   </component>
 </project>

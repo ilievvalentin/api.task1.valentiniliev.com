@@ -15,9 +15,9 @@ class CreateHyperlinksTable extends Migration
     {
         Schema::create('hyperlinks', function (Blueprint $table) {
             $table->bigIncrements('id');
-            $table->string('link');
-            $table->string('title');
-            $table->string('color');
+            $table->string('link')->default('');
+            $table->string('title')->default('');
+            $table->string('color')->default('');
             $table->timestamps();
         });
     }
