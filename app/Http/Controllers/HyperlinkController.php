@@ -22,13 +22,13 @@ class HyperlinkController extends Controller
         Hyperlink::create($request->all());
     }
 
-    public function update(Hyperlink $hyperlink, Request $request) {
-        $hyperlink->update($request->all());
+    public function update($id, Request $request) {
+        Hyperlink::all()->find($id)->update($request->all());
     }
 
-    public function delete(Hyperlink $hyperlink) {
+    public function delete($id) {
         try {
-            $hyperlink->delete();
+            return Hyperlink::all()->find($id)->delete();
         } catch (Exception $e) {
         }
     }

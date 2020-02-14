@@ -165,7 +165,7 @@
       <workItem from="1581630241614" duration="557000" />
       <workItem from="1581645153359" duration="49000" />
       <workItem from="1581646486092" duration="4892000" />
-      <workItem from="1581689076776" duration="487000" />
+      <workItem from="1581689076776" duration="737000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1581630376459</created>
@@ -209,7 +209,14 @@
       <option name="project" value="LOCAL" />
       <updated>1581689541961</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Initial commit">
+      <created>1581689816621</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1581689816621</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -268,10 +275,10 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="428" y="275" key="IDE.errors.dialog/0.0.1680.1050@0.0.1680.1050" timestamp="1581630471673" />
-    <state x="440" y="265" key="Vcs.Push.Dialog.v2" timestamp="1581689543848">
+    <state x="440" y="265" key="Vcs.Push.Dialog.v2" timestamp="1581689822814">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="440" y="265" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1581689543848" />
+    <state x="440" y="265" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1581689822814" />
     <state x="499" y="157" width="681" height="735" key="find.popup" timestamp="1581689460126">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
