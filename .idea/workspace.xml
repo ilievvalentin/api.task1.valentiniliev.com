@@ -20,11 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8b631842-761e-4605-825c-1a19ff4d7d1f" name="Default Changelist" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/database/seeds/HyperlinksTableSeeder.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/factories/HyperlinkFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/factories/HyperlinkFactory.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/migrations/2020_02_13_195613_create_hyperlinks_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2020_02_13_195613_create_hyperlinks_table.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/seeds/DatabaseSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeds/DatabaseSeeder.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/HyperlinkController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/HyperlinkController.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -168,7 +165,7 @@
       <updated>1581630238719</updated>
       <workItem from="1581630241614" duration="557000" />
       <workItem from="1581645153359" duration="49000" />
-      <workItem from="1581646486092" duration="3223000" />
+      <workItem from="1581646486092" duration="4408000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1581630376459</created>
@@ -191,7 +188,14 @@
       <option name="project" value="LOCAL" />
       <updated>1581646597642</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Initial commit">
+      <created>1581687060429</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1581687060429</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -234,9 +238,9 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="428" y="275" key="IDE.errors.dialog/0.0.1680.1050@0.0.1680.1050" timestamp="1581630471673" />
-    <state x="440" y="265" key="Vcs.Push.Dialog.v2" timestamp="1581646602588">
+    <state x="440" y="265" key="Vcs.Push.Dialog.v2" timestamp="1581687062602">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="440" y="265" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1581646602588" />
+    <state x="440" y="265" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1581687062602" />
   </component>
 </project>

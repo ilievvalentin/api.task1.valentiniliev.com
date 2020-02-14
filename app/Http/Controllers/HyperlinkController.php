@@ -5,6 +5,7 @@ namespace App\Http\Controllers;
 use App\Hyperlink;
 use Exception;
 use Illuminate\Http\Request;
+use function MongoDB\BSON\toJSON;
 
 class HyperlinkController extends Controller
 {
@@ -14,7 +15,7 @@ class HyperlinkController extends Controller
     }
 
     public function get(Hyperlink $hyperlink) {
-        return $hyperlink;
+        return new \App\Http\Resources\Hyperlink($hyperlink);
     }
 
     public function create(Request $request) {
