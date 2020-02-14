@@ -20,8 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8b631842-761e-4605-825c-1a19ff4d7d1f" name="Default Changelist" comment="Initial commit">
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/HyperlinkController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/HyperlinkController.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -165,7 +165,8 @@
       <updated>1581630238719</updated>
       <workItem from="1581630241614" duration="557000" />
       <workItem from="1581645153359" duration="49000" />
-      <workItem from="1581646486092" duration="4408000" />
+      <workItem from="1581646486092" duration="4892000" />
+      <workItem from="1581689076776" duration="251000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1581630376459</created>
@@ -195,7 +196,14 @@
       <option name="project" value="LOCAL" />
       <updated>1581687060429</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Initial commit">
+      <created>1581688452941</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1581688452941</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -230,6 +238,22 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="543" y="89" key="#php56/Dockerfile/0.0.1680.1050@0.0.1680.1050" timestamp="1581630262113" />
+    <state width="1638" height="295" key="GridCell.Tab.0.bottom" timestamp="1581689148494">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="295" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1581689148494" />
+    <state width="1638" height="295" key="GridCell.Tab.0.center" timestamp="1581689148493">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="295" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1581689148493" />
+    <state width="1638" height="295" key="GridCell.Tab.0.left" timestamp="1581689148493">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="295" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1581689148493" />
+    <state width="1638" height="295" key="GridCell.Tab.0.right" timestamp="1581689148494">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="295" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1581689148494" />
     <state width="238" height="457" key="HiddenNamespacesPopup" timestamp="1581686959175">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
@@ -238,9 +262,13 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="428" y="275" key="IDE.errors.dialog/0.0.1680.1050@0.0.1680.1050" timestamp="1581630471673" />
-    <state x="440" y="265" key="Vcs.Push.Dialog.v2" timestamp="1581687062602">
+    <state x="440" y="265" key="Vcs.Push.Dialog.v2" timestamp="1581688455114">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="440" y="265" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1581687062602" />
+    <state x="440" y="265" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1581688455114" />
+    <state x="499" y="157" width="681" height="735" key="find.popup" timestamp="1581689460126">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="499" y="157" width="681" height="735" key="find.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1581689460126" />
   </component>
 </project>
