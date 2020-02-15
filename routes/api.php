@@ -15,8 +15,4 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('hyperlinks', 'HyperlinkController@all');
-Route::get('hyperlinks/{id}', 'HyperlinkController@get');
-Route::post('hyperlinks', 'HyperlinkController@create');
-Route::put('hyperlinks/{id}', 'HyperlinkController@update');
-Route::delete('hyperlinks/{id}', 'HyperlinkController@delete');
+Route::resource('hyperlinks', 'HyperlinkController');
