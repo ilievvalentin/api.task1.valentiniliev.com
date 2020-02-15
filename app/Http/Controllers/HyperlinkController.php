@@ -28,8 +28,10 @@ class HyperlinkController extends Controller
 
     public function delete($id) {
         try {
-            return Hyperlink::all()->find($id)->delete();
+            Hyperlink::all()->find($id)->delete();
+            return 200;
         } catch (Exception $e) {
+            return 400;
         }
     }
 
