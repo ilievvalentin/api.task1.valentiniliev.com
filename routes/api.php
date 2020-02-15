@@ -15,4 +15,6 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::resource('hyperlinks', 'HyperlinkController');
+Route::get('hyperlinks', 'HyperlinkController@index');
+Route::get('hyperlinks/{hyperlink}', 'HyperlinkController@show');
+Route::patch('hyperlinks/{hyperlink}', 'HyperlinkController@update');
